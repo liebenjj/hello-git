@@ -1,2 +1,2 @@
 # hello-git
-Random thoughts
+Trying the tutorial from github
